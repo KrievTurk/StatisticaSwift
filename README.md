@@ -1,5 +1,5 @@
 # StatisticaSwift
-Implementation of Statistica API in Swift.
+### Implementation of Statistica API in Swift.
 
 [Русская документация](https://github.com/KrievTurk/StatisticaSwift/src/src/rs.md)
 
